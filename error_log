@@ -1,0 +1,15 @@
+[23-Jan-2019 11:59:13 UTC] PHP Fatal error:  Class 'PHPExcel' not found in /home/mtsnnga1/public_html/asikom/application/controllers/Siswa.php on line 21
+[27-Jan-2019 13:19:11 UTC] PHP Parse error:  syntax error, unexpected '$pValue' (T_VARIABLE) in /home/mtsnnga1/public_html/asikom/application/controllers/Siswa.php on line 34
+[28-Jan-2019 09:49:43 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mtsnnga1/public_html/asikom/application/controllers/Siswa.php on line 31
+[28-Jan-2019 12:02:47 UTC] PHP Parse error:  syntax error, unexpected ''borders'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/mtsnnga1/public_html/asikom/application/controllers/Siswa.php on line 52
+[28-Jan-2019 12:17:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mtsnnga1/public_html/asikom/application/views/home/top_menu.php on line 81
+[31-Jan-2019 14:58:12 UTC] PHP Fatal error:  Call to undefined function text() in /home/mtsnnga1/public_html/asikom/application/controllers/Excel_export.php on line 45
+[31-Jan-2019 15:08:35 UTC] PHP Fatal error:  Call to undefined method Excel_export_model::view() in /home/mtsnnga1/public_html/asikom/application/controllers/Excel_export.php on line 12
+[31-Jan-2019 15:27:26 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/mtsnnga1/public_html/asikom/application/controllers/Excel_export.php on line 45
+[31-Jan-2019 15:28:57 UTC] PHP Fatal error:  Call to undefined method PHPExcel_Worksheet::getNumberFormat() in /home/mtsnnga1/public_html/asikom/application/controllers/Excel_export.php on line 45
+[31-Jan-2019 15:29:57 UTC] PHP Fatal error:  Call to undefined method PHPExcel_Worksheet::setFormatCode() in /home/mtsnnga1/public_html/asikom/application/controllers/Excel_export.php on line 45
+[31-Jan-2019 15:34:44 UTC] PHP Fatal error:  Call to undefined function getNumberFormat() in /home/mtsnnga1/public_html/asikom/application/controllers/Excel_export.php on line 27
+[31-Jan-2019 15:35:15 UTC] PHP Fatal error:  Call to undefined method PHPExcel_Worksheet::getNumberFormat() in /home/mtsnnga1/public_html/asikom/application/controllers/Excel_export.php on line 27
+[31-Jan-2019 16:48:00 UTC] PHP Fatal error:  Call to undefined method PHPExcel_Style::setCellValueExplicit() in /home/mtsnnga1/public_html/asikom/application/controllers/Siswa.php on line 122
+[31-Jan-2019 16:50:20 UTC] PHP Fatal error:  Call to undefined method PHPExcel_Worksheet::getSheet() in /home/mtsnnga1/public_html/asikom/application/controllers/Siswa.php on line 122
+[31-Jan-2019 16:56:21 UTC] PHP Fatal error:  Call to undefined method PHPExcel_Style::setCellValue() in /home/mtsnnga1/public_html/asikom/application/controllers/Siswa.php on line 122
